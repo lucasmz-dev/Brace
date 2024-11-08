@@ -71,7 +71,6 @@ install -Dm644 %{_sourcedir}/README.md %{buildroot}/usr/share/doc/brace/README.m
 /etc/profile.d/brace-env-overrides.sh
 /etc/profile.d/brace-helpers.sh
 /etc/tlp.d/00-brace.conf
-/usr/lib64/thunderbird/defaults/pref/userjs-*.js
 /etc/chromium/policies/managed/brace.json
 /etc/opt/chrome/policies/managed/brace.json
 /usr/lib/modprobe.d/brace.conf
